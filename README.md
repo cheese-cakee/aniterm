@@ -2,16 +2,15 @@
 
 watch anime openings in your terminal. or any video really.
 
-<p align="left">
-  <img src="./assets/aniterm-banner-red.svg" alt="aniterm red ascii logo" width="760" />
-</p>
-
 ```text
-   _        _
-   / \   ___| |_ ___  _ __ ___
-  / _ \ / __| __/ _ \| '__/ __|
- / ___ \__ \ || (_) | |  \__ \
-/_/   \_\___/\__\___/|_|  |___/
+ █████╗ ███╗   ██╗██╗████████╗███████╗██████╗ ███╗   ███╗
+██╔══██╗████╗  ██║██║╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+███████║██╔██╗ ██║██║   ██║   █████╗  ██████╔╝██╔████╔██║
+██╔══██║██║╚██╗██║██║   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║
+██║  ██║██║ ╚████║██║   ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+  anime openings and videos in your terminal
+  best quality default  ·  /p pause  /q quit  /h help
 ```
 
 ## install
