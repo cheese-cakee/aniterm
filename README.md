@@ -1,6 +1,6 @@
 # aniterm
 
-watch anime openings in your terminal. or any video really.
+Watch anime openings in your terminal. or any video really.
 
 ```text
  █████╗ ███╗   ██╗██╗████████╗███████╗██████╗ ███╗   ███╗
